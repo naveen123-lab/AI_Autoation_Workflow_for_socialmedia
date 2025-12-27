@@ -1,1 +1,1 @@
-# AI_Autoation_Workflow_for_socialmedia
+# AI_Automation_Workflow_for_socialmedia
